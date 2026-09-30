@@ -1,6 +1,6 @@
 # CS250-F26-Group09
 ## Contract:
-### How work will be divided
+#### How work will be divided
 Evenly
 #### How group members will communicate
 Discord or Text
