@@ -24,3 +24,4 @@ Autonomous Vehicle System
 Marko Yovanovich 
 Darrick Rios
 Andrew Dominic Lumba
+Nick Pasquale
