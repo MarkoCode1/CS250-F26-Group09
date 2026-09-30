@@ -21,4 +21,4 @@ Marko Or Nathan
 Autonomous Vehicle System
 
 ## Members: 
-Marko Yovanovich
+Marko Yovanovich , Darrick Rios
