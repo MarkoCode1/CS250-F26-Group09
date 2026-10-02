@@ -55,7 +55,7 @@ VideoVerify: Checks if user watched instruction video
 
 SensorCamera
 
-ObjectDistance: 
+ObjectDistance: Checks distance from objects
 
 isForeign: Check for foreign objects
 
