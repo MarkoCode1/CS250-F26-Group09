@@ -65,59 +65,59 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
   - Operational status of vehicle and emergency
 
-*mileage, engineHours, oilLife, carCPU:* 
+- mileage, engineHours, oilLife, carCPU:
 
-- Maintenance Check of the vehicle
+  - Maintenance Check of the vehicle
 
-*numPassenger:*
+- numPassenger:
 
-- Number of Passengers Currently in vehicle
+  - Number of Passengers Currently in vehicle
 
-*currSpeed:*
+- currSpeed:
 
-- Checks current speed of the vehicle
+  - Checks current speed of the vehicle
 
-*currLat, currLong:*
+- currLat, currLong:
 
-- Checks the vehicle’s current location using coordinates
+  - Checks the vehicle’s current location using coordinates
 
 **User**
 
-*LicenseAuth:*
+- LicenseAuth:
 
-- Checks if the user has valid license
+  - Checks if the user has valid license
 
-*VideoVerify:*
+- VideoVerify:
 
-- Checks if user watched instruction video
+  - Checks if user watched instruction video
 
 **SensorCamera**
 
-*ObjectDistance:*
+- ObjectDistance:
 
-- Checks distance from objects
+  - Checks distance from objects
 
-*isForeign:*
+- isForeign:
 
-- Check for foreign objects
+  - Check for foreign objects
 
-*LaneMarkLeft, LaneMarkRight:*
+- LaneMarkLeft, LaneMarkRight:
 
-- Calculate marks for navigation
+  - Calculate marks for navigation
 
-*numObjects:*
+- numObjects:
 
-- Record of foreign objects encountered
+  - Record of foreign objects encountered
 
 **PathManager**
 
-*pathPosition, pathEnd:*
+- pathPosition, pathEnd:
 
-- the distance traveled and distance remaining to set end
+  - the distance traveled and distance remaining to set end
 
-*hazardPosition:*
+- hazardPosition:
 
-- Checks local and national feed for hazards to update navigation.
+  - Checks local and national feed for hazards to update navigation.
 
 ---------------------
 
