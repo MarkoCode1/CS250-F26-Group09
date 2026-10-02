@@ -159,11 +159,19 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 ## DEVELOPMENT PLAN AND TIMELINE
 
+---------------------
+
 **Partitioning of tasks**
+
+---------------------
 
 At first we split into two teams to make the Architectural Diagram and the UML Diagram. Then after we finished the Architectural Diagram and got feedback, we all then started working on the UML Diagram.
 
+---------------------
+
 **Team member responsibilities**
+
+---------------------
 
 Nathan & Nick did the Architectural Diagram
 
