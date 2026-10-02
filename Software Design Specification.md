@@ -1,4 +1,4 @@
-# TITLE
+# Software Design Specifications
 
 ## Software Title:
 Autonomous Vehicle System
@@ -26,48 +26,82 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 ![UML Class Diagram](images/UML09.drawio.png)
 
 ## Description of Classes:
-Vehicle: Overall physical condition of the vehicle’s health
+Vehicle: 
 
-User: checks if the user qualified to use the system
+-Overall physical condition of the vehicle’s health
 
-SensorCamera: The information gathered from sensors and cameras
+User: 
 
-PathManager: Calls for the navigation and sets and manages the route from database
+-Checks if the user qualified to use the system
+
+SensorCamera: 
+
+-The information gathered from sensors and cameras
+
+PathManager: 
+
+-Calls for the navigation and sets and manages the route from database
 
 ## Description of Attributes:
-Vehicle
+VEHICLE
 
-state: Operational status of vehicle and emergency
+state: 
 
-mileage, engineHours, oilLife, carCPU: Maintenance Check of the vehicle
+-Operational status of vehicle and emergency
 
-numPassenger: Number of Passengers Currently in vehicle
+mileage, engineHours, oilLife, carCPU: 
 
-currSpeed: Checks current speed of the vehicle
+-Maintenance Check of the vehicle
 
-currLat, currLong: Checks the vehicle’s current location using coordinates
+numPassenger: 
 
-User
+-Number of Passengers Currently in vehicle
 
-LicenseAuth: Checks if the user has valid license
+currSpeed: 
 
-VideoVerify: Checks if user watched instruction video
+-Checks current speed of the vehicle
 
-SensorCamera
+currLat, currLong: 
 
-ObjectDistance: Checks distance from objects
+-Checks the vehicle’s current location using coordinates
 
-isForeign: Check for foreign objects
+USER
 
-LaneMarkLeft, LaneMarkRight: calculate marks for navigation
+LicenseAuth: 
 
-numObjects: Record of foreign objects encountered
+-Checks if the user has valid license
 
-PathManager
+VideoVerify: 
 
-pathPosition, pathEnd: the distance traveled and distance remaining to set end
+-Checks if user watched instruction video
 
-hazardPosition: Checks local and national feed for hazards to update navigation.
+SENSORCAMERA
+
+ObjectDistance: 
+
+-Checks distance from objects
+
+isForeign: 
+
+-Check for foreign objects
+
+LaneMarkLeft, LaneMarkRight: 
+
+-calculate marks for navigation
+
+numObjects: 
+
+-Record of foreign objects encountered
+
+PATHMANAGER
+
+pathPosition, pathEnd: 
+
+-the distance traveled and distance remaining to set end
+
+hazardPosition: 
+
+-Checks local and national feed for hazards to update navigation.
 
 ## Description of Operations:
 Vehicle:
