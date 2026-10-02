@@ -33,7 +33,7 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 **Description of Classes:**
 
-Vehicle: 
+*Vehicle:* 
 
 -Overall physical condition of the vehicle’s health
 
