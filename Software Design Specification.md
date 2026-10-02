@@ -43,15 +43,15 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 *User:* 
 
--Checks if the user qualified to use the system
+- Checks if the user qualified to use the system
 
 *SensorCamera:* 
 
--The information gathered from sensors and cameras
+- The information gathered from sensors and cameras
 
 *PathManager:*
 
--Calls for the navigation and sets and manages the route from database
+- Calls for the navigation and sets and manages the route from database
 
 **Description of Attributes:**
 
@@ -59,87 +59,87 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 *state:*
 
--Operational status of vehicle and emergency
+- Operational status of vehicle and emergency
 
 *mileage, engineHours, oilLife, carCPU:* 
 
--Maintenance Check of the vehicle
+- Maintenance Check of the vehicle
 
 *numPassenger:*
 
--Number of Passengers Currently in vehicle
+- Number of Passengers Currently in vehicle
 
 *currSpeed:*
 
--Checks current speed of the vehicle
+- Checks current speed of the vehicle
 
 *currLat, currLong:*
 
--Checks the vehicle’s current location using coordinates
+- Checks the vehicle’s current location using coordinates
 
 **User**
 
 *LicenseAuth:*
 
--Checks if the user has valid license
+- Checks if the user has valid license
 
 *VideoVerify:*
 
--Checks if user watched instruction video
+- Checks if user watched instruction video
 
 **SensorCamera**
 
 *ObjectDistance:*
 
--Checks distance from objects
+- Checks distance from objects
 
 *isForeign:*
 
--Check for foreign objects
+- Check for foreign objects
 
 *LaneMarkLeft, LaneMarkRight:*
 
--calculate marks for navigation
+- Calculate marks for navigation
 
 *numObjects:*
 
--Record of foreign objects encountered
+- Record of foreign objects encountered
 
 **PathManager**
 
 *pathPosition, pathEnd:*
 
--the distance traveled and distance remaining to set end
+- the distance traveled and distance remaining to set end
 
 *hazardPosition:*
 
--Checks local and national feed for hazards to update navigation.
+- Checks local and national feed for hazards to update navigation.
 
 **Description of Operations:**
 
 **Vehicle:**
 
--States that the vehicle is a vehicle
+- States that the vehicle is a vehicle
 
--Gets and sends status of vehicle
+- Gets and sends status of vehicle
 
--Gets and sends milage of vehicle
+- Gets and sends milage of vehicle
 
--Gets and sends Oil Life of vehicle
+- Gets and sends Oil Life of vehicle
 
 **SensorCamera:**
 
--Checks the stability of the sensors and cameras
+- Checks the stability of the sensors and cameras
 
 **User:**
 
--Checks for authorization of user
+- Checks for authorization of user
 
 **PathManager:**
 
--Checks the path of the vehicle
+- Checks the path of the vehicle
 
--Checks for hazards
+- Checks for hazards
 
 ## DEVELOPMENT PLAN AND TIMELINE
 
