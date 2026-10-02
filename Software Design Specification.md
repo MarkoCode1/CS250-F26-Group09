@@ -2,8 +2,6 @@
 
 ## Software Design Specifications
 
----------------------
-
 **Software Title:**
 
 Autonomous Vehicle System
