@@ -1,9 +1,9 @@
 # TITLE
 
-# Software Title:
+## Software Title:
 Autonomous Vehicle System
 
-# Members: 
+## Members: 
 Marko Yovanovich  
 Darrick Rios  
 Andrew Dominic Lumba  
@@ -11,31 +11,31 @@ Nick Pasquale
 Jamai  
 Nathan Shepard
 
-## SYSTEM DESCRIPTION
+# SYSTEM DESCRIPTION
 
-# Brief Overview of System:
+## Brief Overview of System:
 The Autonomous Vehicle System is a system that provides assistance for commercial 4-wheel vehicles. The system uses sensors and cameras to detect obstacles, monitor vehicle conditions, and alert the driver, who will remain responsible for driving. 
 
-## SOFTWARE ARCHITECTURE OVERVIEW
+# SOFTWARE ARCHITECTURE OVERVIEW
 
-# Architectural diagram of all major components:
+## Architectural diagram of all major components:
 ![Arch Diagram](<Arch Diagram.drawio.png>) 
 
 
-# UML Class Diagram:
+## UML Class Diagram:
 
-# Description of Classes:
+## Description of Classes:
 
-# Description of Attributes:
+## Description of Attributes:
 
-# Description of Operations:
+## Description of Operations:
 
-## DEVELOPMENT PLAN AND TIMELINE
+# DEVELOPMENT PLAN AND TIMELINE
 
-# Partitioning of tasks
+## Partitioning of tasks
 At first we split into two teams to make the Architectural Diagram and the UML Diagram. Then after we finished the Architectural Diagram and got feedback, we all then started working on the UML Diagram.
 
-# Team member responsibilities 
+## Team member responsibilities 
 Nathan & Nick did the Architectural Diagram
 
 Marko made the GitHub
