@@ -34,10 +34,11 @@ PathManager: Calls for the navigation and sets and manages the route from databa
 
 ## Description of Attributes:
 Vehicle
-Engine Life: total distance traveled in miles
-TransmissionForce: 
-numPassenger: number of passengers
-Mph: how fast the vehicle is going
+state: Operational status of vehicle and emergency
+mileage, engineHours, oilLife, carCPU: Maintenance Check of the vehicle
+numPassenger: Number of Passengers Currently in vehicle
+currSpeed: Checks current speed of the vehicle
+currLat, currLong: Checks the vehicle’s current location using coordinates
 
 EmergencyRead
 LocalHazard: 
@@ -56,7 +57,8 @@ LaneMarkRight:
 numObjects: Record of foreign objects encountered
 
 PathManager
-
+pathPosition:
+pathEnd: 
 
 ## Description of Operations:
 --Put Info HERE--
