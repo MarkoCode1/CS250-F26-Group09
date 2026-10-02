@@ -37,83 +37,83 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 -Overall physical condition of the vehicle’s health
 
-User: 
+*User:* 
 
 -Checks if the user qualified to use the system
 
-SensorCamera: 
+*SensorCamera:* 
 
 -The information gathered from sensors and cameras
 
-PathManager: 
+*PathManager:*
 
 -Calls for the navigation and sets and manages the route from database
 
 **Description of Attributes:**
 
-VEHICLE
+**Vehicle**
 
-state: 
+*state:*
 
 -Operational status of vehicle and emergency
 
-mileage, engineHours, oilLife, carCPU: 
+*mileage, engineHours, oilLife, carCPU:* 
 
 -Maintenance Check of the vehicle
 
-numPassenger: 
+*numPassenger:*
 
 -Number of Passengers Currently in vehicle
 
-currSpeed: 
+*currSpeed:*
 
 -Checks current speed of the vehicle
 
-currLat, currLong: 
+*currLat, currLong:*
 
 -Checks the vehicle’s current location using coordinates
 
-USER
+**User**
 
-LicenseAuth: 
+*LicenseAuth:*
 
 -Checks if the user has valid license
 
-VideoVerify: 
+*VideoVerify:*
 
 -Checks if user watched instruction video
 
-SENSORCAMERA
+**SensorCamera**
 
-ObjectDistance: 
+*ObjectDistance:*
 
 -Checks distance from objects
 
-isForeign: 
+*isForeign:*
 
 -Check for foreign objects
 
-LaneMarkLeft, LaneMarkRight: 
+*LaneMarkLeft, LaneMarkRight:*
 
 -calculate marks for navigation
 
-numObjects: 
+*numObjects:*
 
 -Record of foreign objects encountered
 
-PATHMANAGER
+**PathManager**
 
-pathPosition, pathEnd: 
+*pathPosition, pathEnd:*
 
 -the distance traveled and distance remaining to set end
 
-hazardPosition: 
+*hazardPosition:*
 
 -Checks local and national feed for hazards to update navigation.
 
 **Description of Operations:**
 
-Vehicle:
+**Vehicle:**
 
 -States that the vehicle is a vehicle
 
@@ -123,15 +123,15 @@ Vehicle:
 
 -Gets and sends Oil Life of vehicle
 
-SensorCamera:
+**SensorCamera:**
 
 -Checks the stability of the sensors and cameras
 
-User:
+**User:**
 
 -Checks for authorization of user
 
-PathManager:
+**PathManager:**
 
 -Checks the path of the vehicle
 
