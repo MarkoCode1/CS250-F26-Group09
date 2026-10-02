@@ -45,6 +45,7 @@ VideoVerify: Checks if user watched instruction video
 
 SensorCamera
 ObjectDistance: 
+
 isForeign: Check for foreign objects
 LaneMarkLeft, LaneMarkRight: calculate marks for navigation
 numObjects: Record of foreign objects encountered
