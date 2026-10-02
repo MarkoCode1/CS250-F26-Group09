@@ -1,4 +1,5 @@
 ---------------------
+
 ## Software Design Specifications
 
 **Software Title:**
@@ -14,11 +15,15 @@ Nick Pasquale
 Jamai  
 Nathan Shepard
 
+---------------------
+
 ## SYSTEM DESCRIPTION
 
 **Brief Overview of System:**
 
 The Autonomous Vehicle System is a system that provides assistance for commercial 4-wheel vehicles. The system uses sensors and cameras to detect obstacles, monitor vehicle conditions, and alert the driver, who will remain responsible for driving. 
+
+---------------------
 
 ## SOFTWARE ARCHITECTURE OVERVIEW
 
