@@ -53,7 +53,11 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 - Calls for the navigation and sets and manages the route from database
 
+---------------------
+
 **Description of Attributes:**
+
+---------------------
 
 **Vehicle**
 
@@ -115,7 +119,11 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 - Checks local and national feed for hazards to update navigation.
 
+---------------------
+
 **Description of Operations:**
+
+---------------------
 
 **Vehicle:**
 
@@ -140,6 +148,8 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 - Checks the path of the vehicle
 
 - Checks for hazards
+
+---------------------
 
 ## DEVELOPMENT PLAN AND TIMELINE
 
