@@ -1,3 +1,5 @@
+## TITLE
+
 # Software Title:
 Autonomous Vehicle System
 
@@ -9,10 +11,12 @@ Nick Pasquale
 Jamai  
 Nathan Shepard
 
+## SYSTEM DESCRIPTION
+
 # Brief Overview of System:
 The Autonomous Vehicle System is a system that provides assistance for commercial 4-wheel vehicles. The system uses sensors and cameras to detect obstacles, monitor vehicle conditions, and alert the driver, who will remain responsible for driving. 
 
-## Software Architecture Overview:
+## SOFTWARE ARCHITECTURE OVERVIEW
 
 # Architectural diagram of all major components:
 ![Arch Diagram](<Arch Diagram.drawio.png>) 
@@ -26,7 +30,7 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 # Description of Operations:
 
-## Development plan and timelines:
+## DEVELOPMENT PLAN AND TIMELINE
 
 # Partitioning of tasks
 At first we split into two teams to make the Architectural Diagram and the UML Diagram. Then after we finished the Architectural Diagram and got feedback, we all then started working on the UML Diagram.
