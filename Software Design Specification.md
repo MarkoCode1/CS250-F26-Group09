@@ -6,15 +6,11 @@
 
 **Software Title:**
 
----------------------
-
 Autonomous Vehicle System
 
 ---------------------
 
 **Members:** 
-
----------------------
 
 Marko Yovanovich  
 Darrick Rios  
