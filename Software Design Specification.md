@@ -19,7 +19,7 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 # SOFTWARE ARCHITECTURE OVERVIEW
 
 ## Architectural diagram of all major components:
-![Arch Diagram](<Arch Diagram.drawio.png>) 
+![Arch Diagram](<images/Arch Diagram.drawio.png>)
 
 
 ## UML Class Diagram:
