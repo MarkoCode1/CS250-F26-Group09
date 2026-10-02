@@ -27,7 +27,6 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 ## Description of Classes:
 Vehicle: Overall physical condition of the vehicle’s health
-EmergencyRead: Records the info for local and disaster feeds
 User: checks if the user qualified to use the system
 SensorCamera: The information gathered from sensors and cameras
 PathManager: Calls for the navigation and sets and manages the route from database
@@ -40,11 +39,6 @@ numPassenger: Number of Passengers Currently in vehicle
 currSpeed: Checks current speed of the vehicle
 currLat, currLong: Checks the vehicle’s current location using coordinates
 
-EmergencyRead
-LocalHazard: 
-NationalHazard: 
-HazardPosition: 
-
 User
 LicenseAuth: Checks if the user has valid license
 VideoVerify: Checks if user watched instruction video
@@ -52,13 +46,12 @@ VideoVerify: Checks if user watched instruction video
 SensorCamera
 ObjectDistance: 
 isForeign: Check for foreign objects
-LaneMarkLeft: 
-LaneMarkRight:
+LaneMarkLeft, LaneMarkRight: calculate marks for navigation
 numObjects: Record of foreign objects encountered
 
 PathManager
-pathPosition:
-pathEnd: 
+pathPosition, pathEnd: the distance traveled and distance remaining to set end
+hazardPosition: Checks local and national feed for hazards to update navigation.
 
 ## Description of Operations:
 Vehicle:
