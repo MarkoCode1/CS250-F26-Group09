@@ -26,7 +26,13 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 --Put Info HERE--
 
 ## Description of Classes:
---Put Info HERE--
+Vehicle: Overall physical condition of the vehicle’s health
+EmergencyRead: Records the info for local and disaster feeds
+User: checks if the user qualified to use the system
+SensorCamera: The information gathered from sensors and cameras
+PathManager: Calls for the navigation and sets and manages the route from database
+System:
+
 
 ## Description of Attributes:
 --Put Info HERE--
