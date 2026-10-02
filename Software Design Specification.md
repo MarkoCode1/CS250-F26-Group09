@@ -31,8 +31,6 @@ EmergencyRead: Records the info for local and disaster feeds
 User: checks if the user qualified to use the system
 SensorCamera: The information gathered from sensors and cameras
 PathManager: Calls for the navigation and sets and manages the route from database
-System:
-
 
 ## Description of Attributes:
 Vehicle
