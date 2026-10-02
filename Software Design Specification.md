@@ -11,6 +11,8 @@ Nick Pasquale
 Jamai  
 Nathan Shepard
 
+------------------------------------------
+
 # SYSTEM DESCRIPTION
 
 ## Brief Overview of System:
