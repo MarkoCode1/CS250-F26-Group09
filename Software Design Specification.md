@@ -23,12 +23,16 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 
 ## UML Class Diagram:
+--Put Info HERE--
 
 ## Description of Classes:
+--Put Info HERE--
 
 ## Description of Attributes:
+--Put Info HERE--
 
 ## Description of Operations:
+--Put Info HERE--
 
 # DEVELOPMENT PLAN AND TIMELINE
 
