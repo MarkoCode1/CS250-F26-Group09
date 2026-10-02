@@ -29,11 +29,15 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 **Architectural diagram of all major components:**
 
+---------------------
+
 ![Arch Diagram](<images/Arch Diagram.drawio.png>)
 
 ---------------------
 
 **UML Class Diagram:**
+
+---------------------
 
 ![UML Class Diagram](images/UML09.drawio.png)
 
