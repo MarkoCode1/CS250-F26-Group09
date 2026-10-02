@@ -1,6 +1,9 @@
-# Autonomous Vehicle System
+## Title:
 
-## Members: 
+# Software Title:
+Autonomous Vehicle System
+
+# Members: 
 Marko Yovanovich  
 Darrick Rios  
 Andrew Dominic Lumba  
@@ -9,12 +12,27 @@ Jamai
 Nathan Shepard
 
 ## System Description:
+
+# Brief Overview of System:
 The Autonomous Vehicle System is a system that provides assistance for commercial 4-wheel vehicles. The system uses sensors and cameras to detect obstacles, monitor vehicle conditions, and alert the driver, who will remain responsible for driving. 
 
-## Arch Diagram:
+# Software Architecture Overview:
 ![Arch Diagram](<Arch Diagram.drawio.png>) 
 
-## Class Descriptions:
+# Architectural diagram of all major components:
 
+# UML Class Diagram:
+
+# Description of Classes:
+
+# Description of Attributes:
+
+# Description of Operations:
+
+## Development plan and timelines:
+
+# Partitioning of tasks
+
+# Team member responsibilities 
 
 
