@@ -63,7 +63,7 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 - state:
 
- - Operational status of vehicle and emergency
+  - Operational status of vehicle and emergency
 
 *mileage, engineHours, oilLife, carCPU:* 
 
