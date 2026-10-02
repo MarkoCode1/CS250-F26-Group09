@@ -61,7 +61,21 @@ pathPosition:
 pathEnd: 
 
 ## Description of Operations:
---Put Info HERE--
+Vehicle:
+	States that the vehicle is a vehicle
+	Gets and sends status of vehicle
+	Gets and sends milage of vehicle
+	Gets and sends Oil Life of vehicle
+
+SensorCamera:
+	Checks the stability of the sensors and cameras
+
+User:
+	Checks for authorization of user
+
+PathManager:
+	Checks the path of the vehicle
+	Checks for hazards
 
 # DEVELOPMENT PLAN AND TIMELINE
 
