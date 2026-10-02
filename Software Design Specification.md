@@ -36,6 +36,8 @@ At first we split into two teams to make the Architectural Diagram and the UML D
 
 # Team member responsibilities 
 Nathan & Nick did the Architectural Diagram
+
 Marko made the GitHub
+
 Darrick, Andrew & Marko worked on the UML Diagram with Nathan and Nick joining in once the Architectural Diagram was finished.
 
