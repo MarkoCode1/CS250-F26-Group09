@@ -37,19 +37,19 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 ---------------------
 
-*Vehicle:* 
+**Vehicle:**
 
 - Overall physical condition of the vehicle’s health
 
-*User:* 
+**User:**
 
 - Checks if the user qualified to use the system
 
-*SensorCamera:* 
+**SensorCamera:**
 
 - The information gathered from sensors and cameras
 
-*PathManager:*
+**PathManager:**
 
 - Calls for the navigation and sets and manages the route from database
 
