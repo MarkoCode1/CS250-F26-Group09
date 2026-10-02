@@ -35,7 +35,30 @@ System:
 
 
 ## Description of Attributes:
---Put Info HERE--
+Vehicle
+Engine Life: total distance traveled in miles
+TransmissionForce: 
+numPassenger: number of passengers
+Mph: how fast the vehicle is going
+
+EmergencyRead
+LocalHazard: 
+NationalHazard: 
+HazardPosition: 
+
+User
+LicenseAuth: Checks if the user has valid license
+VideoVerify: Checks if user watched instruction video
+
+SensorCamera
+ObjectDistance: 
+isForeign: Check for foreign objects
+LaneMarkLeft: 
+LaneMarkRight:
+numObjects: Record of foreign objects encountered
+
+PathManager
+
 
 ## Description of Operations:
 --Put Info HERE--
