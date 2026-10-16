@@ -12,6 +12,8 @@ Type here
 
 Type here 
 
+---
+
 # PathManager Class
 
 ## Unit Test
