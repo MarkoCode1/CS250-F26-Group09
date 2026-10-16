@@ -4,7 +4,7 @@
 
 ---------------------
 
-## Test 1
+## User Class
 
 # Unit Test
 
@@ -18,7 +18,7 @@ Type here
 
 Type here 
 
-## Test 2
+## PathManager
 
 # Unit Test
 
