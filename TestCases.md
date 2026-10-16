@@ -27,7 +27,7 @@ Type here
 
 ## Sysytem Test 
 
-Type here 
+The goal of the User System Test is to verify that the that the driver of the vehicle is a authorized user of the vehicle. For this to happen a user of the vehicle will input their email and password via the Vehicle App or Vehicle screen itself. If the person in the vehicle is not a user the system will prompt them to make a account via a link to the Autonomous Vehicle System Website. The user will have to input their email, name, password, age, and drivers license information for them to successfully make a account. After the user is fully signed it and the they are a authorized user, they will be able to successfully drive the vehicle.
 
 ---
 
