@@ -17,7 +17,6 @@ u.LicenseAuth = true
 u.VideoVerify = false
 
 if(u.Authorize() == false) 
-
 	Return PASS
 else
 	Return FALSE
