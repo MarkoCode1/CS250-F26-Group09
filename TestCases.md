@@ -11,14 +11,13 @@ Input: VideoVerify: bool (true if user watched video, false otherwise)
 Output: Return bool (true if both input are true, false otherwise) 
 
 
-User u
+User u  
+u.LicenseAuth = true  
+u.VideoVerify = false  
 
-u.LicenseAuth = true
-u.VideoVerify = false
-
-if(u.Authorize() == false) 
-	Return PASS
-else
+if(u.Authorize() == false)  
+	Return PASS  
+else  
 	Return FALSE
  
 
