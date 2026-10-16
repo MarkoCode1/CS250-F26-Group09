@@ -2,7 +2,26 @@
 
 ## Unit Test
 
-Type here 
+Authorize(): bool
+
+Unit Test: Tests whether the user is authorized to operate the autonomous vehicle by verifying that they have a valid driver's license and have completed the instructional video. 
+
+Input: LicenseAuth: bool (true if license is valid, false otherwise
+Input: VideoVerify: bool (true if user watched video, false otherwise)
+Output: Return bool (true if both input are true, false otherwise) 
+
+
+User u
+
+u.LicenseAuth = true
+u.VideoVerify = false
+
+if(u.Authorize() == false) 
+
+	Return PASS
+else
+	Return FALSE
+ 
 
 ## Integration Test
 
