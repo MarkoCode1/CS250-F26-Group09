@@ -23,7 +23,28 @@ else
 
 ## Integration Test
 
-Type here 
+integration: The User Class methods of user verification will be called before setting the system state. The system state defaults to an "off" state since the Autonomous features will be disabled unless the user has clearance. The "Emergency" mode, for user safety, overrides the need for verification, but not without user choice to activate.
+
+User u
+
+Vehicle v
+
+v.setState("Off")
+
+u.LicenseAuth = true 
+
+u.VideoVerify = false
+
+if(u.Authorize() == false)
+
+	Return Pass	
+	
+else
+
+v.setState("ON")
+	
+	return False
+
 
 ## System Test 
 
