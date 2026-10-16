@@ -23,16 +23,26 @@ Type here
 ## Unit Test
 
 Pathmanager p
+
 int lat = 35
+
 int long = 42
+
 int hazlat = 0
+
 int hazlong= 0
+
 p.PathPosition = [lat,long]
+
 p.HazardPosition = [hazlat, long]
 
+
 if( p.isValidPath == True)
+	
 	return PASS
+
 else
+	
 	return FAIL
  
 
