@@ -31,8 +31,7 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 
 ## SOFTWARE ARCHITECTURE DIAGRAM 2.0
 
-**Architectural diagram of all major components including databases:**
-
+![Arch Diagram](<images/Arch 2.0.drawio-2.png>)
 ---------------------
 
 ### 1 Central Database Design (SQL)
