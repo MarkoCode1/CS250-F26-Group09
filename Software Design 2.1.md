@@ -36,7 +36,7 @@ The Autonomous Vehicle System is a system that provides assistance for commercia
 ---------------------
 this is the old database right now
 
-### 2.3 Central Database Design (PostgreSQL)
+### 2.1 Central Database Design (SQL)
 
 ```mermaid
 erDiagram
@@ -115,7 +115,7 @@ erDiagram
 - **`trip_id` on `FAULT_EVENT` is nullable** because a fault can happen while the vehicle is parked.
 - **Verification is its own table**, so sensitive identity data is kept separate from the regular user profile and can have stricter access rules.
 
-### 2.4 Onboard Database Design (SQLite)
+### 2.2 Onboard Database Design (SQLite)
 
 The onboard database has a few small tables:
 
@@ -127,7 +127,7 @@ The onboard database has a few small tables:
 | `event_log` | Trips, hazards, and faults recorded on the vehicle, each with a `synced` flag |
 | `sensor_buffer` | Rolling window of recent raw sensor data; oldest rows are overwritten |
 
-### 2.5 Synchronization Strategy
+### 2.3 Synchronization Strategy
 
 We assume the vehicle syncs whenever it regains a connection. The process:
 
@@ -141,7 +141,7 @@ We assume the vehicle syncs whenever it regains a connection. The process:
 
 **Timestamps** use GPS time rather than the vehicle's internal clock, so events from different vehicles can be compared accurately.
 
-### 2.6 Sensitive Data
+### 2.4 Sensitive Data
 
 The system stores personal data (names, contact information, trip locations) and identity verification data. Our protections:
 
