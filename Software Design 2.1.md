@@ -150,3 +150,12 @@ The system stores personal data (names, contact information, trip locations) and
 - **Retention limits.** Raw sensor buffers are overwritten automatically, and trip location history can be deleted after a set period.
 
 ---
+
+---------------------
+
+**Tradeoff Discussion:**
+
+SQL is generally easier to read and is more accessible.
+An alternative to our data management design is to use a non-SQL language. Despite the many options in non-SQL designs such as JSON or Redis, 
+these formats are still just as widely applicable as SQL, and may offer a more compact and efficient design visually.
+But when all methods fundamentally fulfill the same purpose, we find the tradeoffs to be in accessibility and readability when approaching methods other than SQL. 
