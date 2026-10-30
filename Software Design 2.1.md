@@ -115,7 +115,7 @@ erDiagram
 - **`trip_id` on `FAULT_EVENT` is nullable** because a fault can happen while the vehicle is parked.
 - **Verification is its own table**, so sensitive identity data is kept separate from the regular user profile and can have stricter access rules.
 
-### 2.2 Onboard Database Design (SQLite)
+### 2.2 Onboard Database Design (SQL)
 
 The onboard database has a few small tables:
 
