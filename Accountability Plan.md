@@ -14,6 +14,11 @@ Tu   |       -      |       -      |   3pm - 12pm |  9am  -  6pm |       -
 W    |       -      |       -      |   3pm - 12pm |  9am  -  5pm |       -      
 Th   |       -      |       -      |5:30pm - 12pm |  9am  -  6pm |       -      
 F    |       -      |       -      |5:30pm - 12pm |  9am  -  3pm |       -      
+M    | 10am  -  6pm |       -      |       -      |  9am  -  5pm |       -      
+Tu   | 10am  -  6pm |       -      |       -      |  9am  -  6pm |       -      
+W    | 10am  -  6pm |       -      |       -      |  9am  -  5pm |       -      
+Th   | 10am  -  6pm |       -      |       -      |  9am  -  6pm |       -      
+F    | 10am  -  6pm |       -      |       -      |  9am  -  3pm |       -      
 
 
 # Conflicts
