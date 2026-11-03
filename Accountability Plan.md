@@ -9,11 +9,11 @@ Commits |    x   |    x    |   x   |  x   |  x
 # Availability
 Task |    Andrew    |    Darrick   |     Marko    |      Nate    |      Nick
 ---- |       -      |       -      |       -      |       -      |       -      
-M    |       -      |       -      |       -      |  9am  -  5pm |       -      
-Tu   |       -      |       -      |       -      |  9am  -  6pm |       -      
-W    |       -      |       -      |       -      |  9am  -  5pm |       -      
-Th   |       -      |       -      |       -      |  9am  -  6pm |       -      
-F    |       -      |       -      |       -      |  9am  -  3pm |       -      
+M    |       -      |       -      |   3pm - 12pm |  9am  -  5pm |       -      
+Tu   |       -      |       -      |   3pm - 12pm |  9am  -  6pm |       -      
+W    |       -      |       -      |   3pm - 12pm |  9am  -  5pm |       -      
+Th   |       -      |       -      |5:30pm - 12pm |  9am  -  6pm |       -      
+F    |       -      |       -      |5:30pm - 12pm |  9am  -  3pm |       -      
 
 
 # Conflicts
@@ -23,6 +23,7 @@ F    |       -      |       -      |       -      |  9am  -  3pm |       -
 ### Darrick
 
 ### Marko
+-Has work from 9 - 3 (M - W) and from 9 - 5:30 (Th-F)
 
 ### Nate
 - Occasionally out of town for weekend tournaments from Th or through M
