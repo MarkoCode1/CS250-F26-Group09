@@ -9,11 +9,11 @@ Commits |    x   |    x    |   x   |  x   |  x
 # Availability
 Task |    Andrew    |    Darrick   |     Marko    |      Nate    |      Nick
 ---- |       -      |       -      |       -      |       -      |       -      
-M    | 10am  -  6pm |       -      |   3pm - 12pm |  9am  -  5pm |       -      
-Tu   | 10am  -  6pm |       -      |   3pm - 12pm |  9am  -  6pm |       -      
-W    | 10am  -  6pm |       -      |   3pm - 12pm |  9am  -  5pm |       -      
-Th   | 10am  -  6pm |       -      |5:30pm - 12pm |  9am  -  6pm |       -      
-F    | 10am  -  6pm |       -      |5:30pm - 12pm |  9am  -  3pm |       -      
+M    | 10am  -  6pm |       -      |   3pm - 12am |  9am  -  5pm |       -      
+Tu   | 10am  -  6pm |       -      |   3pm - 12am |  9am  -  6pm |       -      
+W    | 10am  -  6pm |       -      |   3pm - 12am |  9am  -  5pm |       -      
+Th   | 10am  -  6pm |       -      |5:30pm - 12am |  9am  -  6pm |       -      
+F    | 10am  -  6pm |       -      |5:30pm - 12am |  9am  -  3pm |       -      
 
 
 
