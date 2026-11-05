@@ -31,4 +31,4 @@ F    | 10am  -  6pm |   9am - 3pm  |5:30pm - 12am |  9am  -  3pm |       -
 - Occasionally out of town for weekend tournaments from Th or through M
 
 ### Nick
-- Burgeoning late-night stand-up comic career
+- Anytime
